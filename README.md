@@ -16,7 +16,7 @@ Data was provided in NDJson format. Data had some issues when directly inserted 
 
 ## Project Architecture
 
-![picture alt](Images/ProjectArchitecture.jpeg)
+![picture alt](Visualizations/ProjectArchitecture.jpeg)
 
 ###	Input Layer
 User Question and Question bank both are considered as input. 
@@ -76,4 +76,9 @@ Final Output is the relevant question and answer shown based on the user input/k
 
 ***Please refer script [06.Shiny.R](Script/06.Shiny.r "06.Shiny.R title")***
 
+Output 1
+![picture alt](Visualizations/ShinyOutput1.jpg)
+
+Output 2
+![picture alt](Visualizations/ShinyOutput2.jpg)
 
